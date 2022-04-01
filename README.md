@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-- 🔧 I’m currently working on a project for **Rada Tech AS** to build an Android app for recruitment solution.
+- 🔧 I’m currently working on a project for **Rada Tech AS** to build a recruitment solution with Android software development.
 - 🌱 I’m currently learning **Software Testing**, **Internet of Things** and **Operating Systems**.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jenny-liang-n-564922168/ "LinkedIn - Jenny Liang Nergård "), [Email](mailto:mail@jennyliang.no?subject=[GitHub]%20Contact%20form), [Instagram](https://www.instagram.com/jennyliangn/ "Instagram - Jenny Liang Nergård ")
-- ⚡ Fun fact: I have skied and slept in a tent for two weeks on Svalbard at -30 degrees and seen polar bears and walruses.
+- ⚡ Fun fact about me: I have skied and slept in a tent for two weeks on Svalbard at -30 degrees and seen polar bears and walruses.
 - 🚀 In the future, I want to start my own startup and develop an application that hopefully will be meaningful to the society.
 - 💬 NO ENG ES
 ### About my studies
--  Degree: Bachelor in Applied Computer Sience / OsloMet - Storbyuniversitet
+-  Degree: Bachelor in Applied Computer Sience / OsloMet - Oslo Metropolitan University (Storbyuniversitet)
 -  Duration: 3 years, 180 ECTS
 -  Language of instruction: Norwegian and English
 -  City: Oslo, Norway
