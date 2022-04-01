@@ -12,11 +12,26 @@
 -  Language of instruction: Norwegian and English
 -  City: Oslo, Norway
 
+**Program Structure**
+| Subject                             | Passed  | Learning  | ECTS  |
+| :---------------------------------- | :-----: | :-------: | :---: |
+| Webdewelopment and Including Design |   `X`   |           |  `10` |
+| Interaction Design and Portotyping  |   `X`   |           |  `10` |
+| Programming                         |   `X`   |           |  `10` |
+| Databases                           |   `X`   |           |  `10` |
+| Web Programming                     |   `X`   |           |  `10` |
+| Visualization                       |   `X`   |           |  `10` |
+| Human Interaction Design            |   `X`   |           |  `10` |
+| System Development                  |   `X`   |           |  `10` |
+| Algorithms and Data Structures      |   `X`   |           |  `10` |
+| Operating Systems                   |         |     -     |  `10` |
+| Software Testing                    |         |     -     |  `10` |
+| Internet of Things                  |         |     -     |  `10` |
+
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 
-https://stackoverflow.com/questions/39378020/how-to-display-table-in-readme-md-file-in-github
 <---
