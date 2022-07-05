@@ -29,6 +29,8 @@
 | Introduction to Artificial Intelligence |         |     -     |  `10` |
 | Data Security                           |         |     -     |  `10` |
 | Web applications                        |         |     -     |  `10` |
+
 **Additional**
+| Subject                                 | Passed  | Learning  | ECTS  |
 | :-------------------------------------- | :-----: | :-------: | :---: |
 | Practical-IT Project                    |         |     -     |  `10` |
