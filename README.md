@@ -1,13 +1,12 @@
 ### Hi there 👋
 
 - 🔧 I’m currently working on a project for **Rada Tech AS** to build a recruitment solution with Android software development.
-- 🌱 I’m currently learning ...
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jenny-liang-n-564922168/ "LinkedIn - Jenny Liang Nergård "), [Email](mailto:mail@jennyliang.no?subject=[GitHub]%20Contact%20form)
-- ⭐ My dream job would be to work for Telia eller Google.
+- ⭐ My dream job would be to work for Telia or Google.
 - 🚀 In the future, I want to create my own startup in software development.
 - 💬 NO ENG ES
 ### About my studies
--  Degree: Bachelor in Applied Computer Sience / OsloMet - Oslo Metropolitan University (Storbyuniversitet)
+-  Degree: Bachelor in Applied Computer Sience / OsloMet - Oslo Metropolitan University
 -  Duration: 3 years, 180 ECTS
 -  Language of instruction: Norwegian and English
 -  City: Oslo, Norway
