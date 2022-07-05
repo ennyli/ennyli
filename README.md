@@ -31,6 +31,6 @@
 | Web applications                        |         |     -     |  `10` |
 
 **Additional**
-| Subject                                 | Passed  | Learning  | ECTS  |
-| :-------------------------------------- | :-----: | :-------: | :---: |
-| Practical-IT Project                    |         |     -     |  `10` |
+| Subject               | Passed  | Learning  | ECTS  |
+| :-------------------- | :-----: | :-------: | :---: |
+| Practical-IT Project  |         |     -     |  `10` |
