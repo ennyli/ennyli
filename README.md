@@ -33,4 +33,4 @@
 **Additional**
 | Subject               | Passed  | Learning  | ECTS  |
 | :-------------------- | :-----: | :-------: | :---: |
-| Practical-IT Project  |         |     -     |  `10` |
+| Practical-IT Project  |   `X`   |           |  `10` |
