@@ -34,3 +34,7 @@
 | Subject               | Passed  | Learning  | ECTS  |
 | :-------------------- | :-----: | :-------: | :---: |
 | Practical-IT Project  |   `X`   |           |  `10` |
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ennyli)](https://github.com/ennyli/github-readme-stats)
+<br />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ennyli&hide=stars,prs,issues)
