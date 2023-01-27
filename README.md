@@ -26,14 +26,11 @@
 | Operating Systems                       |   `X`   |           |  `10` |
 | Software Testing                        |   `X`   |           |  `10` |
 | Internet of Things                      |   `X`   |           |  `10` |
-| Introduction to Artificial Intelligence |         |     -     |  `10` |
-| Data Security                           |         |     -     |  `10` |
-| Web applications                        |         |     -     |  `10` |
-
-**Additional**
-| Subject               | Passed  | Learning  | ECTS  |
-| :-------------------- | :-----: | :-------: | :---: |
-| Practical-IT Project  |   `X`   |           |  `10` |
+| Introduction to Artificial Intelligence |   `X`   |           |  `10` |
+| Data Security                           |   `X`   |           |  `10` |
+| Web applications                        |   `X`   |           |  `10` |
+| Practical-IT Project                    |   `X`   |           |  `10` |
+| Practical-IT Project                    |         |     -     |  `10` |
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ennyli)](https://github.com/ennyli/github-readme-stats)
 <br />
