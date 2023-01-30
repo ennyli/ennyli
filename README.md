@@ -30,7 +30,7 @@
 | Data Security                           |   `X`   |           |  `10` |
 | Web applications                        |   `X`   |           |  `10` |
 | Practical-IT Project                    |   `X`   |           |  `10` |
-| Practical-IT Project                    |         |     -     |  `10` |
+| Bachelor Project                        |         |     -     |  `10` |
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ennyli)](https://github.com/ennyli/github-readme-stats)
 <br />
