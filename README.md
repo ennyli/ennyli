@@ -2,8 +2,7 @@
 
 - 🔧 I’m currently finishing last year on my bachelor in Applied Computercience.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jenny-liang-n-564922168/ "LinkedIn - Jenny Liang Nergård "), [Email](mailto:mail@jennyliang.no?subject=[GitHub]%20Contact%20form)
-- ⭐ My dream job would be to work for Telia or Google as I love innovation and technology.
-- 🚀 In the future, I want to create my own startup in software development.
+- 🚀⭐ In the future, I want to create my own startup and develop software that is environmental friendly and contribute to a sustainable future. 🌱♻️
 - 💬 NO, ENG, ES
 ### About my studies
 -  Degree: Bachelor in Applied Computer Sience / OsloMet - Oslo Metropolitan University
@@ -30,7 +29,7 @@
 | Data Security                           |   `X`   |           |  `10` |
 | Web applications                        |   `X`   |           |  `10` |
 | Practical-IT Project                    |   `X`   |           |  `10` |
-| Bachelor Project                        |         |     -     |  `10` |
+| Bachelor Project                        |         |     -     |  `20` |
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ennyli)](https://github.com/ennyli/github-readme-stats)
 <br />
