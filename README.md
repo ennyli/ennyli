@@ -1,25 +1,25 @@
 ### Hi there 👋
 
-- 🔧 I’m currently finishing last year on my bachelor in Applied Computercience.
+- 🔧 I’m currently finishing last year on my bachelor in Applied Computer Science.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jenny-liang-n-564922168/ "LinkedIn - Jenny Liang Nergård "), [Email](mailto:mail@jennyliang.no?subject=[GitHub]%20Contact%20form)
 - 🚀⭐ In the future, I want to create my own startup and develop software that is environmental friendly and contribute to a sustainable future. 🌱♻️
 - 💬 NO, ENG, ES
 ### About my studies
--  Degree: Bachelor in Applied Computer Sience / OsloMet - Oslo Metropolitan University
--  Duration: 3 years (finished spring 2023), 180 ECTS
+-  Degree: Bachelor in Applied Computer Science / OsloMet - Oslo Metropolitan University
+-  Duration: 3 years (to be finished spring 2023), 180 ECTS
 -  Language of instruction: Norwegian and English
 -  City: Oslo, Norway
 
 **Program Structure**
 | Subject                                 | Passed  | Learning  | ECTS  |
 | :-------------------------------------- | :-----: | :-------: | :---: |
-| Webdewelopment and Including Design     |   `X`   |           |  `10` |
-| Interaction Design and Portotyping      |   `X`   |           |  `10` |
+| Webdevelopment and Inclusive Design     |   `X`   |           |  `10` |
+| Interaction Design and Prototyping      |   `X`   |           |  `10` |
 | Programming                             |   `X`   |           |  `10` |
 | Databases                               |   `X`   |           |  `10` |
 | Web Programming                         |   `X`   |           |  `10` |
 | Visualization                           |   `X`   |           |  `10` |
-| Human Interaction Design                |   `X`   |           |  `10` |
+| Human–computer Interaction              |   `X`   |           |  `10` |
 | System Development                      |   `X`   |           |  `10` |
 | Algorithms and Data Structures          |   `X`   |           |  `10` |
 | Operating Systems                       |   `X`   |           |  `10` |
